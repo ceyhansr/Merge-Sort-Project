@@ -1,5 +1,5 @@
 # Merge-Sort-Project
-###I solved the insertion sort questions in this project
+### I solved the insertion sort questions in this project
 
 ### [16,21,11,8,12,22] -> Merge Sort
 ## Q-Write the stages of the above array according to the sort type.
